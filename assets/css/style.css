@@ -287,7 +287,8 @@ textarea.materialize-textarea[readonly="readonly"]+label {
   border-radius: 20px;
   /*border-color: rgb(78, 24, 29);*/
   /*border-style: double;*/
- background-color: transparent;
+ background-color: rgb(17, 24, 11);
+ opacity: 65%;
   /*border: 2px solid rgb(75, 63, 63);
  /*background-color: rgba(0,0,0,0.5);
   opacity: 65%;
@@ -307,7 +308,7 @@ textarea.materialize-textarea[readonly="readonly"]+label {
 
 /* setting up background image to cover entire page */
 body {
-  background-image: url("../images/bg18.jpg");
+  background-image: url("../images/bg8.jpg");
   /*background-color: #272629;*/
   background-attachment: fixed;
   background-size: cover;
